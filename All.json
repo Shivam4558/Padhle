@@ -1,0 +1,152 @@
+{
+  "class": "10",
+  "content": {
+    "Science": {
+      "Acids_Bases_And_Salts": {
+        "lecture": {
+          "stage": 1,
+          "video_url": "https://youtu.be/tedrZUJ7y8A"
+        },
+        "notes": {
+          "type": "pdf",
+          "url": "https://drive.google.com/file/d/1VTQgOUfHsJ34wtCvZf56rdIQBwGgwwCo/view"
+        }
+      },
+      "Chemical_Reactions_And_Equations": {
+        "lecture": null,
+        "notes": {
+          "type": "pdf",
+          "url": "https://drive.google.com/file/d/1SIPGSsFqKVf_hKWDFwntoUD5HwdbxhL3/view"
+        }
+      },
+      "Carbon_And_Its_Compounds": {
+        "lecture": null,
+        "notes": {
+          "type": "pdf",
+          "url": "https://drive.google.com/file/d/1a6HIxMAP6zHMzPj2-Tht6XWqWqmpRCMY/view"
+        }
+      },
+      "Metals_And_Non_Metals": {
+        "lecture": null,
+        "notes": {
+          "type": "pdf",
+          "url": "https://drive.google.com/file/d/1HfP19VA6jXizsuNA0ZK58FhQQr80kPyy/view"
+        }
+      },
+      "Light": {
+        "lecture": {
+          "stage": 4,
+          "video_url": "https://youtu.be/89S8B53YT3E"
+        },
+        "notes": {
+          "type": "pdf",
+          "url": "https://drive.google.com/file/d/1SfOtA5OtuSnlZyWRlzpXz5leXHISsqbt/view"
+        }
+      },
+      "Electricity": {
+        "lecture": null,
+        "notes": {
+          "type": "pdf",
+          "url": "https://drive.google.com/file/d/1UqmkqKYh5R6BhCFWsXiRQzur5fD5yAfq/view"
+        }
+      },
+      "Human_Eye_And_Colourful_World": {
+        "lecture": null,
+        "notes": {
+          "type": "pdf",
+          "url": "https://drive.google.com/file/d/13zFjxomojHS-WDZxFPKPEY9hkuwTmnM_/view"
+        }
+      }
+    },
+
+    "SST": {
+      "History": {
+        "The_Rise_Of_Nationalism_In_Europe": {
+          "lecture": {
+            "stage": 1,
+            "video_url": "https://youtu.be/aWqGlseJT8E"
+          },
+          "notes": {
+            "type": "pdf",
+            "url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.9863571231344921.pdf"
+          }
+        },
+        "The_Rise_Of_Nationalism_In_India": {
+          "lecture": null,
+          "notes": {
+            "type": "pdf",
+            "url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.8746149776378527.pdf"
+          }
+        },
+        "Print_Culture_And_Modern_World": {
+          "lecture": null,
+          "notes": {
+            "type": "pdf",
+            "url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.9119778327906828.pdf"
+          }
+        },
+        "The_Making_Of_Global_World": {
+          "lecture": null,
+          "notes": {
+            "type": "pdf",
+            "url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.05590082100589466.pdf"
+          }
+        }
+      },
+
+      "Civics": {
+        "Power_Sharing": {
+          "lecture": {
+            "stage": 2,
+            "video_url": "https://youtu.be/rmnGe6uWEPQ"
+          },
+          "notes": {
+            "type": "pdf",
+            "url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.2429366224703765.pdf"
+          }
+        },
+        "Federalism": {
+          "lecture": null,
+          "notes": {
+            "type": "pdf",
+            "url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.7369579392240379.pdf"
+          }
+        },
+        "Gender_Religion_And_Caste": {
+          "lecture": null,
+          "notes": {
+            "type": "pdf",
+            "url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.19259674081942935.pdf"
+          }
+        },
+        "Political_Parties": {
+          "lecture": null,
+          "notes": {
+            "type": "pdf",
+            "url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.6054430479692265.pdf"
+          }
+        },
+        "Outcomes_Of_Democracy": {
+          "lecture": null,
+          "notes": {
+            "type": "pdf",
+            "url": "https://appx-content-v2.classx.co.in/paid_course4/2025-01-07-0.2976852540153925.pdf"
+          }
+        }
+      },
+
+      "Geography": {
+        "Resource_And_Development": {
+          "lecture": {
+            "stage": 3,
+            "video_url": "https://youtu.be/j-2ZH4jVUW8"
+          },
+          "notes": {
+            "type": "pdf",
+            "url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.06642947290543821.pdf"
+          }
+        }
+      }
+    }
+  }
+}
