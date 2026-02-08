@@ -1,0 +1,189 @@
+{
+  "course": {
+    "id": "ai-akshay-24hr-crash-course",
+    "name": "A.I × Akshay — 24 Hour Full Syllabus Crash Course (Class 10th)",
+    "banner_image": "https://appx-content-v2.classx.co.in/paid_course3/2025-11-27-0_7698066247027469.png",
+    "tagline": "Complete Class 10th in Just 24 Hours with AI Support",
+    "telegram_channel": "https://t.me/Ai_X_Akshay_EvBot",
+    "overview": {
+      "title": "What You Get",
+      "features": [
+        "Full NCERT Syllabus Covered – Complete 24 Hours",
+        "Complete Maths, Science & SST",
+        "Topic-wise + chapter-wise detailed explanations",
+        "Easy language, exam-oriented, NCERT line-by-line coverage",
+        "No live classes — fully recorded & binge-watch ready",
+        "Students can learn anytime, anywhere",
+        "Premium Lecture Notes & One-Pagers",
+        "Clean, concise, printable notes for last-minute revision",
+        "Easy-to-understand diagrams & solved examples",
+        "One-Page revision sheets with high-yield facts highlighted",
+        "Chapter-wise Quizzes",
+        "MCQs, competency-based questions, and PYQs",
+        "Instant results to track performance and identify weak areas",
+        "Flashcards for Every Chapter",
+        "Perfect for memory-based learning and quick recall",
+        "Includes important definitions, formulas, and concepts",
+        "AI Doubt Solver (24×7)",
+        "Your private AI tutor inside the app",
+        "Ask unlimited questions and get instant, stress-free answers"
+      ]
+    }
+  },
+  
+  "lectures": {
+    "main": {
+      "all_subjects": {
+        "name": "All Subjects Access",
+        "telegram_url": "https://t.me/Ai_X_Akshay_EvBot?start=BQADAQADGRMAAp_hAUa6ZeTQ7pyBgxYE",
+        "description": "Complete course access with all subjects"
+      }
+    },
+    
+    "science": {
+      "chemistry": {
+        "name": "Chemistry Complete",
+        "telegram_url": "https://t.me/Ai_X_Akshay_EvBot?start=BQADAQADFBMAAp_hAUaJ6DWXrpyA5xYE",
+        "description": "Complete Chemistry syllabus"
+      },
+      "biology": {
+        "name": "Biology Complete",
+        "telegram_url": "https://t.me/Ai_X_Akshay_EvBot?start=BQADAQADGBMAAp_hAUY6Haw3sKZqjxYE",
+        "description": "Complete Biology syllabus"
+      }
+    },
+    
+    "social_science": {
+      "history": {
+        "name": "History Complete",
+        "telegram_url": "https://t.me/Ai_X_Akshay_EvBot?start=BQADAQADGhMAAp_hAUbQzwhBiv_rMhYE",
+        "description": "Complete History syllabus"
+      },
+      "civics": {
+        "name": "Civics Complete",
+        "telegram_url": "https://t.me/Ai_X_Akshay_EvBot?start=BQADAQADGxMAAp_hAUaQffIv4hMt0hYE",
+        "description": "Complete Civics syllabus"
+      },
+      "economics": {
+        "name": "Economics Complete",
+        "telegram_url": "https://t.me/Ai_X_Akshay_EvBot?start=BQADAQADHhMAAp_hAUbHtCyFIG2F1BYE",
+        "description": "Complete Economics syllabus"
+      },
+      "geography": {
+        "name": "Geography Complete",
+        "telegram_url": "https://t.me/Ai_X_Akshay_EvBot?start=BQADAQADHxMAAp_hAUax32Ycn0T4hxYE",
+        "description": "Complete Geography syllabus"
+      }
+    },
+    
+    "mathematics": {
+      "part_1": {
+        "name": "Mathematics Part 1",
+        "telegram_url": "https://t.me/Ai_X_Akshay_EvBot?start=BQADAQADIBMAAp_hAUZ-stAUkvWGZhYE",
+        "description": "Mathematics Part 1 of 4"
+      },
+      "part_2": {
+        "name": "Mathematics Part 2",
+        "telegram_url": "https://t.me/Ai_X_Akshay_EvBot?start=BQADAQADIRMAAp_hAUbKiWDjMvyINxYE",
+        "description": "Mathematics Part 2 of 4"
+      },
+      "part_3": {
+        "name": "Mathematics Part 3",
+        "telegram_url": "https://t.me/Ai_X_Akshay_EvBot?start=BQADAQADIxMAAp_hAUawrnlGdBzVXhYE",
+        "description": "Mathematics Part 3 of 4"
+      },
+      "part_4": {
+        "name": "The Finale",
+        "telegram_url": "https://t.me/Ai_X_Akshay_EvBot?start=BQADAQADJxMAAp_hAUYPID2XoHSpWxYE",
+        "description": "Mathematics Final Part"
+      }
+    }
+  },
+  
+  "notes_flashcards": {
+    "main": {
+      "name": "All-in-one NOTES & Flash Cards",
+      "google_drive_url": "https://drive.google.com/drive/folders/1QO1pJbDnHwOgLfyoEM8e73rPy2fso-Mw",
+      "description": "Complete study materials including notes, flashcards, and revision sheets",
+      "access_note": "Access through Google Drive folder"
+    }
+  },
+  
+  "features": {
+    "ai_doubt_solver": {
+      "name": "AI Doubt Solver",
+      "availability": "24×7",
+      "description": "Your private AI tutor inside the app. Ask unlimited questions and get instant, stress-free answers."
+    },
+    "premium_notes": {
+      "name": "Premium Lecture Notes",
+      "features": [
+        "Clean, concise, printable notes",
+        "Easy-to-understand diagrams",
+        "Solved examples",
+        "One-Page revision sheets",
+        "High-yield facts highlighted"
+      ]
+    },
+    "quizzes": {
+      "name": "Chapter-wise Quizzes",
+      "types": [
+        "MCQs",
+        "Competency-based questions",
+        "Previous Year Questions (PYQs)"
+      ],
+      "benefits": [
+        "Instant results",
+        "Track performance",
+        "Identify weak areas"
+      ]
+    },
+    "flashcards": {
+      "name": "Chapter-wise Flashcards",
+      "purpose": "Memory-based learning and quick recall",
+      "content": [
+        "Important definitions",
+        "Formulas",
+        "Key concepts"
+      ]
+    }
+  },
+  
+  "course_structure": {
+    "total_duration": "24 hours",
+    "subjects": ["Mathematics", "Science", "Social Science"],
+    "science_parts": ["Chemistry", "Biology"],
+    "social_science_parts": ["History", "Civics", "Economics", "Geography"],
+    "mathematics_parts": ["Part 1", "Part 2", "Part 3", "The Finale"],
+    "delivery_format": "Fully recorded lectures (binge-watch ready)",
+    "access": "Learn anytime, anywhere"
+  },
+  
+  "stats": {
+    "total_subjects": 3,
+    "total_lecture_parts": 9,
+    "total_science_parts": 2,
+    "total_sst_parts": 4,
+    "total_math_parts": 4,
+    "features_count": 4,
+    "study_materials": "Google Drive folder with all resources",
+    "ai_support": "24/7 available"
+  },
+  
+  "access": {
+    "platform": "Telegram Bot",
+    "bot_name": "@Ai_X_Akshay_EvBot",
+    "access_method": "Start command with specific codes",
+    "notes_access": "Google Drive folder",
+    "availability": "24/7 access"
+  },
+  
+  "metadata": {
+    "api_version": "1.0.0",
+    "last_updated": "2024-12-08T12:00:00Z",
+    "course_type": "24-hour crash course",
+    "target_grade": "Class 10th",
+    "syllabus": "Full NCERT Syllabus",
+    "exam_focus": true
+  }
+}
