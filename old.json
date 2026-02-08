@@ -1,0 +1,343 @@
+{
+  "course": {
+    "id": "class10-24hr-crash-course",
+    "name": "Finish Class Xth In A '24:00:00 HOURS' Crash Course",
+    "banner_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREpkTAvlNhMpidfhw9dBKQNOz-WqWjCdATVJ2GtSu3Ag&s=10",
+    "logo": "https://i.ibb.co/dwLp6QgN/file-000000009bec720690702db699f9e921.png",
+    "telegram_channel": "https://t.me/+P-uSwcx9ajFkMjM1",
+    "tagline": "Complete Class 10th Syllabus in Just 24 Hours",
+    "overview": {
+      "title": "COURSE OVERVIEW",
+      "description": "This course is designed to cover the entire Class 10th syllabus in a '24-Hour Challenge' format. It's ideal for last-minute revisions and quick concept clarity before exams. The syllabus is broken down into 11 parts: Science (4 parts), Social Science (4 parts), and Maths (3 parts). Includes high-quality video lectures and concise flashcards for effective learning. Focuses on the most important topics and questions based on the latest exam patterns. A perfect tool to boost your confidence and performance in a short amount of time"
+    }
+  },
+  
+  "lectures": {
+    "sst": [
+      {
+        "id": "lec-sst-1",
+        "subject": "History",
+        "title": "History Complete Revision",
+        "stage": "Stage - 1",
+        "video_url": "https://youtu.be/aWqGlseJT8E?si=KXIb1uYQmDv85_8r",
+        "thumbnail": "https://img.youtube.com/vi/aWqGlseJT8E/maxresdefault.jpg",
+        "description": "Complete History syllabus revision for Class 10th"
+      },
+      {
+        "id": "lec-sst-2",
+        "subject": "Civics",
+        "title": "Civics Complete Revision",
+        "stage": "Stage - 2",
+        "video_url": "https://youtu.be/rmnGe6uWEPQ?si=b-3maI5S6vC45Cos",
+        "thumbnail": "https://img.youtube.com/vi/rmnGe6uWEPQ/maxresdefault.jpg",
+        "description": "Complete Civics syllabus with focus on important questions"
+      },
+      {
+        "id": "lec-sst-3",
+        "subject": "Geography",
+        "title": "Geography Complete Revision",
+        "stage": "Stage - 3",
+        "video_url": "https://youtu.be/j-2ZH4jVUW8?si=tmhZY3QgR-WfJYL2",
+        "thumbnail": "https://img.youtube.com/vi/j-2ZH4jVUW8/maxresdefault.jpg",
+        "description": "Complete Geography syllabus with maps and diagrams"
+      }
+    ],
+    
+    "science": [
+      {
+        "id": "lec-sci-1",
+        "subject": "Chemistry",
+        "title": "Chemistry Part 1",
+        "stage": "Stage - 1",
+        "video_url": "https://youtu.be/tedrZUJ7y8A?si=mhT2BJ3s_BP-Rmy2",
+        "thumbnail": "https://img.youtube.com/vi/tedrZUJ7y8A/maxresdefault.jpg",
+        "description": "Chemistry fundamentals and reactions"
+      },
+      {
+        "id": "lec-sci-2",
+        "subject": "Chemistry",
+        "title": "Chemistry Part 2",
+        "stage": "Stage - 2",
+        "video_url": "https://youtu.be/8UReZ-4Ti_o?si=felmYSfGX2L1ZCk7",
+        "thumbnail": "https://img.youtube.com/vi/8UReZ-4Ti_o/maxresdefault.jpg",
+        "description": "Advanced chemistry concepts"
+      },
+      {
+        "id": "lec-sci-3",
+        "subject": "Biology",
+        "title": "Biology Complete",
+        "stage": "Stage - 3",
+        "video_url": "https://youtu.be/Vc3N-97TUbA?si=6gB0mTXQ1mLqblEg",
+        "thumbnail": "https://img.youtube.com/vi/Vc3N-97TUbA/maxresdefault.jpg",
+        "description": "Complete Biology syllabus"
+      },
+      {
+        "id": "lec-sci-4",
+        "subject": "Physics",
+        "title": "Physics Complete",
+        "stage": "Stage - 4",
+        "video_url": "https://youtu.be/89S8B53YT3E?si=khlRm5zieev6cIlX",
+        "thumbnail": "https://img.youtube.com/vi/89S8B53YT3E/maxresdefault.jpg",
+        "description": "Complete Physics syllabus"
+      }
+    ],
+    
+    "mathematics": [
+      {
+        "id": "lec-math-1",
+        "subject": "Mathematics",
+        "title": "Mathematics Complete Course",
+        "stage": "Coming Soon",
+        "video_url": null,
+        "status": "coming_soon",
+        "note": "This subject is being prepared by our team and will be available soon. No extra steps needed! The content will automatically become available here once it's ready. Keep an eye out!"
+      }
+    ]
+  },
+  
+  "flashcards": {
+    "science": [
+      {
+        "id": "flash-sci-1",
+        "topic": "Acid Bases And Salts",
+        "subject": "Chemistry",
+        "pdf_url": "https://drive.google.com/file/d/1VTQgOUfHsJ34wtCvZf56rdIQBwGgwwCo/view?usp=sharing",
+        "download_url": "https://drive.google.com/uc?export=download&id=1VTQgOUfHsJ34wtCvZf56rdIQBwGgwwCo"
+      },
+      {
+        "id": "flash-sci-2",
+        "topic": "Chemical Reactions And Equations",
+        "subject": "Chemistry",
+        "pdf_url": "https://drive.google.com/file/d/1SIPGSsFqKVf_hKWDFwntoUD5HwdbxhL3/view?usp=sharing",
+        "download_url": "https://drive.google.com/uc?export=download&id=1SIPGSsFqKVf_hKWDFwntoUD5HwdbxhL3"
+      },
+      {
+        "id": "flash-sci-3",
+        "topic": "Carbon and its Compounds",
+        "subject": "Chemistry",
+        "pdf_url": "https://drive.google.com/file/d/1a6HIxMAP6zHMzPj2-Tht6XWqWqmpRCMY/view?usp=sharing",
+        "download_url": "https://drive.google.com/uc?export=download&id=1a6HIxMAP6zHMzPj2-Tht6XWqWqmpRCMY"
+      },
+      {
+        "id": "flash-sci-4",
+        "topic": "Metals And Non-Metals",
+        "subject": "Chemistry",
+        "pdf_url": "https://drive.google.com/file/d/1HfP19VA6jXizsuNA0ZK58FhQQr80kPyy/view?usp=sharing",
+        "download_url": "https://drive.google.com/uc?export=download&id=1HfP19VA6jXizsuNA0ZK58FhQQr80kPyy"
+      },
+      {
+        "id": "flash-sci-5",
+        "topic": "Light",
+        "subject": "Physics",
+        "pdf_url": "https://drive.google.com/file/d/1SfOtA5OtuSnlZyWRlzpXz5leXHISsqbt/view?usp=sharing",
+        "download_url": "https://drive.google.com/uc?export=download&id=1SfOtA5OtuSnlZyWRlzpXz5leXHISsqbt"
+      },
+      {
+        "id": "flash-sci-6",
+        "topic": "Electricity",
+        "subject": "Physics",
+        "pdf_url": "https://drive.google.com/file/d/1UqmkqKYh5R6BhCFWsXiRQzur5fD5yAfq/view?usp=sharing",
+        "download_url": "https://drive.google.com/uc?export=download&id=1UqmkqKYh5R6BhCFWsXiRQzur5fD5yAfq"
+      },
+      {
+        "id": "flash-sci-7",
+        "topic": "Human Eye And Colourful World",
+        "subject": "Physics",
+        "pdf_url": "https://drive.google.com/file/d/13zFjxomojHS-WDZxFPKPEY9hkuwTmnM_/view?usp=sharing",
+        "download_url": "https://drive.google.com/uc?export=download&id=13zFjxomojHS-WDZxFPKPEY9hkuwTmnM_"
+      },
+      {
+        "id": "flash-sci-8",
+        "topic": "Magnetic Effect Of Electric Current",
+        "subject": "Physics",
+        "pdf_url": "https://drive.google.com/file/d/1TigFD5G2YA_yHsnnHeE0US3lJwPoiMeI/view?usp=sharing",
+        "download_url": "https://drive.google.com/uc?export=download&id=1TigFD5G2YA_yHsnnHeE0US3lJwPoiMeI"
+      }
+    ],
+    
+    "history": [
+      {
+        "id": "flash-hist-1",
+        "topic": "The Rise of Nationalism In Europe",
+        "subject": "History",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.9863571231344921.pdf"
+      },
+      {
+        "id": "flash-hist-2",
+        "topic": "The Rise of Nationalism In India",
+        "subject": "History",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.8746149776378527.pdf"
+      },
+      {
+        "id": "flash-hist-3",
+        "topic": "Print Culture and Modern World",
+        "subject": "History",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.9119778327906828.pdf"
+      },
+      {
+        "id": "flash-hist-4",
+        "topic": "The Making Of Global World",
+        "subject": "History",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.05590082100589466.pdf"
+      }
+    ],
+    
+    "civics": [
+      {
+        "id": "flash-civ-1",
+        "topic": "Power Sharing",
+        "subject": "Civics",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.2429366224703765.pdf"
+      },
+      {
+        "id": "flash-civ-2",
+        "topic": "Federalism",
+        "subject": "Civics",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.7369579392240379.pdf"
+      },
+      {
+        "id": "flash-civ-3",
+        "topic": "Gender Religion And Caste",
+        "subject": "Civics",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.19259674081942935.pdf"
+      },
+      {
+        "id": "flash-civ-4",
+        "topic": "Political Parties",
+        "subject": "Civics",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.6054430479692265.pdf"
+      },
+      {
+        "id": "flash-civ-5",
+        "topic": "Outcomes Of Democracy",
+        "subject": "Civics",
+        "pdf_url": "https://appx-content-v2.classx.co.in/paid_course4/2025-01-07-0.2976852540153925.pdf"
+      }
+    ],
+    
+    "economics": [
+      {
+        "id": "flash-eco-1",
+        "topic": "Development",
+        "subject": "Economics",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.8596314128496917.pdf"
+      },
+      {
+        "id": "flash-eco-2",
+        "topic": "Sectors Of Indian Economy",
+        "subject": "Economics",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.06586725104278435.pdf"
+      },
+      {
+        "id": "flash-eco-3",
+        "topic": "Money and Credit",
+        "subject": "Economics",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.4060934059102841.pdf"
+      },
+      {
+        "id": "flash-eco-4",
+        "topic": "Globalization and Indian Economy",
+        "subject": "Economics",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.15895079381923882.pdf"
+      }
+    ],
+    
+    "geography": [
+      {
+        "id": "flash-geo-1",
+        "topic": "Resource And Development",
+        "subject": "Geography",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.06642947290543821.pdf"
+      },
+      {
+        "id": "flash-geo-2",
+        "topic": "Forest Wildlife and Resource",
+        "subject": "Geography",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.16173516970227464.pdf"
+      },
+      {
+        "id": "flash-geo-3",
+        "topic": "Water Resources",
+        "subject": "Geography",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.33243637570059037.pdf"
+      },
+      {
+        "id": "flash-geo-4",
+        "topic": "Agriculture",
+        "subject": "Geography",
+        "pdf_url": "https://appx-content-v2.classx.co.in/subject/2025-01-07-0.1379954271161471.pdf"
+      },
+      {
+        "id": "flash-geo-5",
+        "topic": "Mineral And Energy Resource",
+        "subject": "Geography",
+        "pdf_url": "https://appx-content-v2.classx.co.in/paid_course4/2025-01-07-0.9506894691748522.pdf"
+      },
+      {
+        "id": "flash-geo-6",
+        "topic": "Manufacturing Industries",
+        "subject": "Geography",
+        "pdf_url": "https://appx-content-v2.classx.co.in/paid_course4/2025-01-07-0.31301575022203976.pdf"
+      },
+      {
+        "id": "flash-geo-7",
+        "topic": "Lifelines Of National Economy",
+        "subject": "Geography",
+        "pdf_url": "https://appx-content-v2.classx.co.in/paid_course4/2025-01-07-0.4198322668042951.pdf"
+      }
+    ],
+    
+    "mathematics": [
+      {
+        "id": "flash-math-1",
+        "topic": "Coming Soon",
+        "subject": "Mathematics",
+        "pdf_url": null,
+        "status": "coming_soon",
+        "note": "This subject is being prepared by our team and will be available soon. No extra steps needed! The content will automatically become available here once it's ready."
+      }
+    ]
+  },
+  
+  "stats": {
+    "total_lectures": 8,
+    "total_flashcards": 24,
+    "total_subjects": 6,
+    "total_video_hours": "10.5 hours",
+    "total_pdfs": 23,
+    "coming_soon": 1,
+    "course_duration": "24:00:00",
+    "updated_at": "2024-12-08T10:30:00Z",
+    "breakdown": {
+      "lectures": {
+        "sst": 3,
+        "science": 4,
+        "mathematics": 1
+      },
+      "flashcards": {
+        "science": 8,
+        "history": 4,
+        "civics": 5,
+        "economics": 4,
+        "geography": 7,
+        "mathematics": 1
+      }
+    }
+  },
+  
+  "unlock_policy": {
+    "status": "auto",
+    "message": "No extra steps needed! The content will automatically become available here once it's ready. Keep an eye out!",
+    "mathematics_note": "This subject is being prepared by our team and will be available soon."
+  },
+  
+  "metadata": {
+    "api_version": "1.0.0",
+    "last_updated": "2024-12-08T10:30:00Z",
+    "total_records": {
+      "lectures": 8,
+      "flashcards": 24,
+      "subjects": 6
+    }
+  }
+}
